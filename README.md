@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/28bdb9142a6487c4a0a65.jpg" alt="MoviezMateBot Logo">
+  <img src="https://telegra.ph/file/89428c4ff9712de56d814.jpg" alt="MoviezMateBot Logo">
 </p>
 <h1 align="center">
   MoviezMateBot
