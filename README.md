@@ -1,27 +1,27 @@
 <p align="center">
-  <img src="https://telegra.ph/file/89428c4ff9712de56d814.jpg" alt="MoviezMantraBot Logo">
+  <img src="https://telegra.ph/file/28bdb9142a6487c4a0a65.jpg" alt="MoviezMateBot Logo">
 </p>
 <h1 align="center">
-  MoviezMantraBot
+  MoviezMateBot
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=THIS+IS+MoviezMantraBot!;CREATED+Moviez+Mania™;A+POWERFULL+TG+AUTOFILTER+BOT!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=THIS+IS+MoviezMateBot!;CREATED+Moviez+Mania™;A+POWERFULL+TG+AUTOFILTER+BOT!)</p>
 <p align="center">
 
 <h1 align="center">
-  <b> MOVIEZ MANTRA MULTIFEATURE BOT</b>
+  <b> MOVIEZ MATE MULTIFEATURE BOT</b>
 </h1>
 
 👉 contact me on telegram
 <p align="middle">        
 <a href="https://telegram.dog/Mania24SupportBot"><img src="https://img.shields.io/badge/Tᴇʟᴇɢʀᴀᴍ-purple.svg?logo=telegram"></a>
 
-[![Stars](https://img.shields.io/github/stars/Moviez-Bot-Dev/MoviezMantraBot?style=flat-square&color=blue)](https://github.com/Moviez-Bot-Dev/MoviezMantraBot)
-[![Forks](https://img.shields.io/github/forks/Moviez-Bot-Dev/MoviezMantraBot?style=flat-square&color=red)](https://github.com/Moviez-Bot-Dev/MoviezMantraBot/fork)
-[![Size](https://img.shields.io/github/repo-size/Moviez-Bot-Dev/MoviezMantraBot?style=flat-square&color=orange)](https://github.com/Moviez-Bot-Dev/MoviezMantraBot)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Moviez-Bot-Dev/MoviezMantraBot)   
-[![Contributors](https://img.shields.io/github/contributors/Moviez-Bot-Dev/MoviezMantraBot?style=flat-square&color=pink)](https://github.com/Moviez-Bot-Dev/MoviezMantraBot/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Moviez-Bot-Dev/MoviezMantraBot/blob/stream-feature/LICENSE)
+[![Stars](https://img.shields.io/github/stars/Moviez-Bot-Dev/MoviezMateBot?style=flat-square&color=blue)](https://github.com/Moviez-Bot-Dev/MoviezMateBot)
+[![Forks](https://img.shields.io/github/forks/Moviez-Bot-Dev/MoviezMateBot?style=flat-square&color=red)](https://github.com/Moviez-Bot-Dev/MoviezMateBot/fork)
+[![Size](https://img.shields.io/github/repo-size/Moviez-Bot-Dev/MoviezMateBot?style=flat-square&color=orange)](https://github.com/Moviez-Bot-Dev/MoviezMateBot)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Moviez-Bot-Dev/MoviezMateBot)   
+[![Contributors](https://img.shields.io/github/contributors/Moviez-Bot-Dev/MoviezMateBot?style=flat-square&color=pink)](https://github.com/Moviez-Bot-Dev/MoviezMateBot/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Moviez-Bot-Dev/MoviezMateBot/blob/stream-feature/LICENSE)
 
 <b>All this codes are created by our developers 
 
@@ -80,7 +80,7 @@ we are nothing without your support please support us to bring more features in 
 
 * [![REPO OWNER](https://img.shields.io/static/v1?label=CONTACT&message=ME&color=critical)](https://t.me/Mania24SupportBot)
 
-* * [![ᴅᴇᴍᴏ ʙᴏᴛ](https://img.shields.io/static/v1?label=DEMO&message=BOT&color=critical)](https://t.me/MoviezMantraBot)
+* * [![ᴅᴇᴍᴏ ʙᴏᴛ](https://img.shields.io/static/v1?label=DEMO&message=BOT&color=critical)](https://t.me/MoviezMateBot)
   
 ## Commands
 ```
@@ -152,14 +152,14 @@ we are nothing without your support please support us to bring more features in 
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/Moviez-Bot-Dev/MoviezMantraBot/blob/stream-feature/info.py) for more optional variables
+* Check [info.py](https://github.com/Moviez-Bot-Dev/MoviezMateBot/blob/stream-feature/info.py) for more optional variables
 
 ## Deploy
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Moviez-Bot-Dev/MoviezMantraBot">
+<a href="https://heroku.com/deploy?template=https://github.com/Moviez-Bot-Dev/MoviezMateBot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -171,7 +171,7 @@ we are nothing without your support please support us to bring more features in 
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Moviez-Bot-Dev/MoviezMantraBot&branch=stream-feature&name=TG_FILTER_BOT)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Moviez-Bot-Dev/MoviezMateBot&branch=stream-feature&name=TG_FILTER_BOT)
 </details>
 
 <details><summary>Deploy To Render</summary>
@@ -198,7 +198,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/Moviez-Bot-Dev/MoviezMantraBot/tree/stream-feature">
+<a href="https://render.com/deploy?repo=https://github.com/Moviez-Bot-Dev/MoviezMateBot/tree/stream-feature">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -206,7 +206,7 @@ Use these settings when adding a monitor:</b>
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Moviez-Bot-Dev/MoviezMantraBot
+git clone https://github.com/Moviez-Bot-Dev/MoviezMateBot
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
