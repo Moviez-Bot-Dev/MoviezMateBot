@@ -36,7 +36,7 @@ we are nothing without your support please support us to bring more features in 
 </b></u>
 
 
-## Commands
+## Features
 - [x] STREAM FEATURE 🖥
 - [x] IMDB Template Set
 - [x] Indexes Files above 2GB
