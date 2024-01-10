@@ -167,7 +167,7 @@ Nᴀᴍᴇ - {}"""
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     SHORTLINK_INFO = """
-<b>──────「<a href=https://t.me/Updated_Mania/9> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」──────
+<b>──────「<a href=https://t.me/Updated_Mania/41> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」──────
 
 Yᴏᴜ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
 
@@ -177,7 +177,7 @@ sᴛᴇᴘ 1 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀ�
 
 sᴛᴇᴘ 2 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://gplinks.in/ref/MoviezKatta>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
 
-sᴛᴇᴘ 3 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/Updated_Mania/9> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
+sᴛᴇᴘ 3 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/Updated_Mania/41> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
 
 ➣ Yᴏᴜ ᴄᴀɴ ᴄᴏɴɴᴇᴄᴛ ᴀs ᴍᴀɴʏ ɢʀᴏᴜᴘ ʏᴏᴜ ʜᴀᴠᴇ.
 
@@ -458,7 +458,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 # dont remove my logo 
     PAID_TXT = """<b>Join a Prime group to get free movie without any ads
 Your time is valuable, Stop watching ads and simply avoid the stupidity, for pay click here
-<a href='https://t.me/Updated_Mania/5'>➹ ᴄʟɪᴄᴋ ғᴏʀ ϙʀ ➹</a>
+<a href='https://t.me/Updated_Mania/41'>➹ ᴄʟɪᴄᴋ ғᴏʀ ϙʀ ➹</a>
 
 Prime Membership Progress
 
@@ -470,12 +470,9 @@ Prime Membership Progress
 
 Would you like to become a Prime Member? Follow these steps:-
 
-✤ Step 1: Go to any payment app like Google PAY, PAYTM,
+✤ Step 1: Go to any payment app like Google PAY, PAYTM, PhonePay and all other platforms accepted.
 ✤ Step 2: Pay using UPI ID depending on your plan.
-✤ Step 3 : Send screenshot to our admin or owner Or contact me to send a screenshot.
+✤ Step 3 : Send screenshot to our admin or owner Or contact me to send a screenshot. @Mania24SupportBot
 
 Any doubts or how to become a prime member? contact me @Mania24SupportBot @Updated_Mania</code></b>"""
 
-
-
-  
