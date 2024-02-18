@@ -9,7 +9,7 @@ from Script import script
 from pyrogram.errors import ChatAdminRequired
 import asyncio 
 
-"""-----------------------------------------https://t.me/Updated_Mania --------------------------------------"""
+"""-----------------------------------------https://t.me/Netflix_Bollywood_Movie_Series --------------------------------------"""
 
 @Client.on_message(filters.new_chat_members & filters.group)
 async def save_group(bot, message):
@@ -194,7 +194,7 @@ async def gen_invite(bot, message):
 
 @Client.on_message(filters.command('ban') & filters.user(ADMINS))
 async def ban_a_user(bot, message):
-    # https://t.me/Updated_Mania
+    # https://t.me/Netflix_Bollywood_Movie_Series
     if len(message.command) == 1:
         return await message.reply('Give me a user id / username')
     r = message.text.split(None)
