@@ -76,7 +76,7 @@ we are nothing without your support please support us to bring more features in 
 - [x] Auto Delete
 - [x] And More...
 
-<b>Tᴏ ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴀʟʟ ғᴇᴀᴛᴜʀᴇs, Jᴏɪɴ ᴏᴜʀ <a href='https://t.me/Updated_Mania'>updates channel</a>.</b>
+<b>Tᴏ ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴀʟʟ ғᴇᴀᴛᴜʀᴇs, Jᴏɪɴ ᴏᴜʀ <a href='https://t.me/Netflix_Bollywood_Movie_Series'>updates channel</a>.</b>
 
 * [![REPO OWNER](https://img.shields.io/static/v1?label=CONTACT&message=ME&color=critical)](https://t.me/Mania24SupportBot)
 
