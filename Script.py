@@ -462,9 +462,9 @@ Your time is valuable, Stop watching ads and simply avoid the stupidity, for pay
 
 Prime Membership Progress
 
-ᴘʟᴀɴ ᴀ : 1 ᴡᴇᴇᴋ / ₹30
-ᴘʟᴀɴ ʙ : 1 ᴍᴏɴᴛʜ / ₹100
-ᴘʟᴀɴ ᴄ : 1 ʏᴇᴀʀ / ₹500
+ᴘʟᴀɴ ᴀ : 1 ᴍᴏɴᴛʜs / ₹199
+ᴘʟᴀɴ ʙ : 2 ᴍᴏɴᴛʜs / ₹349
+ᴘʟᴀɴ ᴄ : 1 ʏᴇᴀʀ / ₹999
 
 ➻ ᴜᴘɪ ɪᴅ : dpanchal@oksbi
 
